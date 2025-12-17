@@ -11,7 +11,4 @@
 ## 🛠 Tech
 Angular | React | Next.js | TypeScript | Firebase | Node.js | Express.js 
 
-## 📊 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
 📫 **Contact:** erms362@gmail.com
