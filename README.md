@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohd Shuaib Alam</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **React Native, AWS etc...**
-
-- 👨‍💻 All of my projects are available at [shuaibalam.vercel.app](shuaibalam.vercel.app)
+- 🌱 I’m currently working on **React, Nextjs, Angular, Nodejs, AWS etc...**
 
 - 💬 Ask me about **ReactJs, Angular**
-
-- 📫 How to reach me **shuaib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
